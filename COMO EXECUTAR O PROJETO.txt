@@ -1,0 +1,34 @@
+CNPJs para testar
+
+03567036000140
+05283827000173
+04903427000150
+04464710000123
+04041464000105
+
+Instruções:
+O projeto
+
+
+Toda vez que você alterar um layout no QT Designer, é necessário salvar o layout
+e depois executar essa linha no terminal do VS code na classe main.py
+pyside6-uic edicao_qt.ui -o ui_main.py e também pyside6-rcc icons.qrc -o icons_rc.py
+
+
+
+
+QFrame{
+background-color:rgb(65,65,65);
+}
+
+QToolBox{
+text-align:left;
+background-color:rgb(228,254,255);
+}
+
+QToolBox::tab{
+border-radius: 5px;
+background-color:rgb(194,232,255);
+text-align:left;
+
+}
