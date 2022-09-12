@@ -3,9 +3,9 @@
 
 Para cadastrar uma empresa, na Tela Inicial clique em "Cadastrar" no menu lateral.
 
-![This is an image](https://i.imgur.com/n111Hga.png)
+![This is an image](https://i.imgur.com/cfyiBv4.png)
 
 Preencha o primeiro campo "CNPJ" e depois aperte o botão "TAB" do teclado. Em seguida, o sistema irá trazer os dados da empresa da receita. Clique em "Cadastrar" e logo em seguida irá aparecer a mensagem de "Cadastro Realizado com Sucesso.
 
-![This is an image](https://i.imgur.com/OQualH3.png)
-![This is an image](https://i.imgur.com/iifyEf2.png)
+![This is an image](https://i.imgur.com/GPjTzRK.png)
+![This is an image](https://i.imgur.com/l9ouzZf.png)
