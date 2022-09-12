@@ -9,3 +9,6 @@ Preencha o primeiro campo "CNPJ" e depois aperte o botão "TAB" do teclado. Em s
 
 ![This is an image](https://i.imgur.com/GPjTzRK.png)
 ![This is an image](https://i.imgur.com/l9ouzZf.png)
+
+Para consultar se a empresa foi cadastrada, basta clicar na aba "Empresas" e verá a mesma na lista:
+![This is an image](https://i.imgur.com/dvoEvu4.png)
