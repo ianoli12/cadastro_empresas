@@ -11,4 +11,9 @@ Preencha o primeiro campo "CNPJ" e depois aperte o botão "TAB" do teclado. Em s
 ![This is an image](https://i.imgur.com/l9ouzZf.png)
 
 Para consultar se a empresa foi cadastrada, basta clicar na aba "Empresas" e verá a mesma na lista:
+
 ![This is an image](https://i.imgur.com/dvoEvu4.png)
+
+Além de Alterar e Excluir uma empresa, também é possível gerar um relatório Excel das empresas cadastradas:
+
+![image](https://user-images.githubusercontent.com/15828302/189765788-248452b6-a225-4315-8d7c-f3010b51b47d.png)
