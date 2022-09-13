@@ -7,6 +7,7 @@ Instruções de instalação:
 
 Instale os seguintes pacotes com o "pip install":
 - pyside6 shiboken e pandas
+- O banco de dados SQLite é criado a partir da classe "database.py". 
 
 Para cadastrar uma empresa, na Tela Inicial clique em "Cadastrar" no menu lateral.
 
